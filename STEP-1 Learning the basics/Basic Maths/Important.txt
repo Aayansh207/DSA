@@ -1,0 +1,3 @@
+count_digits : length=int(log10(n)+1)
+HCF : using recursion optimised method
+palindrome : optimised method
