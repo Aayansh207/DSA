@@ -39,9 +39,6 @@ public:
     }
     void update(long long idx,long long key){
         up(idx,key,0,n-1,0);
-        // for(int i=0;i<4*n;i++){
-        //     cout<<tree[i]<<" ";
-        // }
     }
 };
 
